@@ -13,7 +13,7 @@ Custom mappings:
 Fn2+Home -> End
 Fn1+Esc -> `
 Fn2+Esc -> ~
-Fn2+BAckspace -> Del
+Fn2+Backspace -> Del
 Fn1+bulb -> Mouse3
 Fn2+bulb -> Insert
 (mac only) ROpt -> AltGr
